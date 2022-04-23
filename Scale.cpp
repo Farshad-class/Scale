@@ -6,7 +6,6 @@
 #pragma warning(disable : 6031)
 using namespace std;
 double w[10];
-string  Cardnumber, ca;
 double Tomato, potato, Apple, Onion, Kiwi, Orange, banana, Strawberry, other;
 int a, b, k;
 int t = 0, p = 0, Ap = 0, o = 0, ki = 0, Or = 0, ba = 0, st = 0, oth = 0;

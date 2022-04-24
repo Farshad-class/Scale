@@ -2,8 +2,8 @@
 #include <conio.h>
 #include <stdio.h>
 #include <math.h>
-#pragma warning(disable : 4996)
-#pragma warning(disable : 6031)
+//#pragma warning(disable : 4996)
+//#pragma warning(disable : 6031)
 using namespace std;
 double w[10];
 double Tomato, potato, Apple, Onion, Kiwi, Orange, banana, Strawberry, other;
@@ -19,7 +19,7 @@ int main()
 {
 	fill1();
 	return 0;
-	getch();
+	_getch();
 }
 
 void menu1()
